@@ -36,5 +36,6 @@ p {
 }
 
 a {
+    border: solid black;
     color: black;
 }
