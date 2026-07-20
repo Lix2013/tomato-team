@@ -12,7 +12,7 @@ h1 {
 }
 
 p {
-    color: gray;
+    color: rgb(41, 41, 41);
 }
 
 .cart {
@@ -27,4 +27,5 @@ p {
     border: solid black;
     border-radius: 20px;
     align-items: center;
+    color: black;
 }
