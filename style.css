@@ -22,7 +22,7 @@ p {
     border: solid white;
     border-radius: 20px;
     color: rgb(54, 54, 54);
-    display: inline-block;
+    display: block;
     padding: 20px;
     margin: 20px;
 }
