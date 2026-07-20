@@ -25,7 +25,7 @@ p {
     width: fit-content;
     padding: 20px;
     margin: 20px auto;
-    min-width: 50vh;
+    min-width: 600vh;
 }
 
 .navbar {
